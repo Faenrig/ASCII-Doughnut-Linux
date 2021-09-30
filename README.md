@@ -7,3 +7,8 @@ ninja
 ```
 
 ![](./doughnut.gif)
+
+Derived from:
+https://github.com/hadal1337/ASCII-Doughnut
+Inspired by:
+https://github.com/RandomThings23/donut
